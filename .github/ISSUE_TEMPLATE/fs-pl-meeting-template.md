@@ -1,16 +1,16 @@
 ---
-name: PL Meeting
+name: PL Meeting (Kevin)
 about: 구현 결과와 기술 문제, PL 답변을 정리합니다.
-title: "1회차-YYYY-MM-DD-pl-meeting"
+title: "1회차-2026-MM-DD-pl-meeting (Kevin)"
 labels: ""
-assignees: ""
+assignees: "jaksfj, yeonsang-atom, yh112"
 ---
 
 ## 기본 정보
-- 팀명:
-- 미팅 일시:
-- 미팅 회차: (예: 3주차 2회차)
-- 참여 인원:
+- 팀명: 취향저격단
+- 미팅 일시: 2026-MM-DD
+- 미팅 회차: n주차 n회차
+- 참여 인원: Theo, Ava, Neo
 
 ---
 
