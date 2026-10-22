@@ -3,7 +3,7 @@ name: PL Meeting (Kevin)
 about: 구현 결과와 기술 문제, PL 답변을 정리합니다.
 title: "1회차-2026-MM-DD-pl-meeting (Kevin)"
 labels: ""
-assignees: "jaksfj, yeonsang-atom, yh112"
+assignees: "jaksfj, yeonsang-atom, yihyun-myoung"
 ---
 
 ## 기본 정보
